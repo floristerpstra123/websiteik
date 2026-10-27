@@ -148,6 +148,8 @@ Niet elke pagina heeft evenveel beweging. Home is drukker, met bewegende teksten
 
 Zo hebben de pagina’s wel hun eigen indeling, maar zorgen de fonts, kleuren en knoppen ervoor dat het geheel bij elkaar blijft passen.
 
+<img width="1870" height="1062" alt="image" src="https://github.com/user-attachments/assets/789ef54c-9863-4a33-bbf6-641d66ed26f9" />
+Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb gekregen, hiermee zie ik wel dat mensen doorhebben wat ik probeer uit te beelden.
 
 ## Songtekst
 
@@ -162,6 +164,8 @@ Zo hebben de pagina’s wel hun eigen indeling, maar zorgen de fonts, kleuren en
 <img width="3024" height="4032" alt="IMG_7279" src="https://github.com/user-attachments/assets/05d39d3e-cfb8-47e8-bb47-da7af971cf02" />
 <img width="3024" height="4032" alt="IMG_7280" src="https://github.com/user-attachments/assets/72168bb8-1dfd-4952-a349-62556effb1d8" />
 <img width="3024" height="4032" alt="IMG_7281" src="https://github.com/user-attachments/assets/02d7e3b4-a69c-4561-8f1b-d53b8a42acf9" />
+<img width="974" height="1458" alt="image" src="https://github.com/user-attachments/assets/96cdc699-8ff5-4eb3-8fb8-1452a64c00ca" />
+
 
 Ik heb gekozen voor het stukje
 All this running around, bearing down on my shoulders
@@ -249,6 +253,8 @@ Met een grid kun je de lay out aanpassen waardoor je op het hele scherm dingen k
 Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
 gelijkheid.
 
+Retrospect: 
+Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een pad die langzaam omhoog gaat. Dit moet laten zien dat ik nu nog onderaan het pad sta maar mijn reis naar boven begin, ik heb het naast school erg druk met werk dus daardoor liep ik een beetje achter en de code maakt me op dit moment een beetje bang omdat ik er nog niks van begrijp. Maar ik ben begonnen met brainstormen, code leren en het huiswerk maken en nu begin ik er meer in te raken.
 
 sprint 2:
 
@@ -358,6 +364,9 @@ Met duidelijke hiërarchie laat ik zien wat belangrijk is. Genoeg witruimte zorg
 Hoeveel gekkigheid moet er in je werk zitten?
 Voor mij genoeg om het ontwerp een eigen karakter te geven, maar niet zoveel dat het onduidelijk wordt. Bij mijn website passen neonkleuren en beweging bij de clubsfeer, maar de tekst en navigatie moeten wel goed leesbaar blijven.
 
+<img width="2092" height="1516" alt="image" src="https://github.com/user-attachments/assets/a632180b-87cc-485e-a1e3-8bf259134e73" />
+
+
 9 oktober
 
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
@@ -375,6 +384,13 @@ Ik zou bepaalde woorden waar een toon verschil is laten bewegen. ‘Down’ kan 
 <img width="2244" height="1406" alt="image" src="https://github.com/user-attachments/assets/85907094-6753-4dca-9200-400af5016a00" />
 
 Ik heb een tekening gemaakt waarin wisselvallig weer te zien is, dit betekent dat ik dit blok best chaotisch verliep. Mijn ideeen veranderden vaak, feedback verschilde en vanwege dat ik ziek was en een abses had heb ik ook veel gemist. Door al deze gebeurtenissen liep het soms best stroef, maar is het uiteindelijk wel gelukt.
+
+<img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/568bee53-c6e1-4cf5-b12c-c3106426c826" />
+<img width="1012" height="748" alt="image" src="https://github.com/user-attachments/assets/479966b8-6783-4088-8c85-043b97218902" />
+Na feedback heb ik nog een font toegevoegd, screenreader gefixt, home pagina responsive gemaakt en de dark/light mode gefixt.
+
+
+
 
 
 
