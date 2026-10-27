@@ -42,12 +42,6 @@ Er zijn twee animaties: `naarLinks` en `naarRechts`. Beide verplaatsen de tekst 
 
 De gradients staan in `body::before`. Daar is dus geen extra HTML-element voor nodig. De animatie `zweven` verandert de posities van de gradients.
 
-### Het probleem met de knop
-
-De themaknop was op de homepagina niet goed aan te klikken. Waarschijnlijk lag de header er onzichtbaar overheen. Daarom is de `z-index` van de knop verhoogd naar 15, terwijl de header op 10 staat. De knop ligt nu boven de header. Of dit bij alle schermformaten goed werkt, moet nog getest worden.
-
-De achtergrondlagen hebben daarnaast `pointer-events: none`. Zo houden de bewegende teksten en gradients geen klikken tegen die voor de knoppen of links bedoeld zijn.
-
 ### Privacymelding
 
 In de eerste melding stond dat de website functionele cookies gebruikte. Na de feedback heb ik die tekst aangepast naar een melding over geen cookies of tracking. Dat moet nog gecontroleerd worden voor de volledige website, inclusief JavaScript en eventuele externe onderdelen.
@@ -187,6 +181,8 @@ De animaties zijn dus niet alleen toegevoegd om de pagina te laten bewegen. Elk 
 
 ## Check out vragen
 
+sprint 1:
+
 7 september:
 
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
@@ -253,6 +249,9 @@ Met een grid kun je de lay out aanpassen waardoor je op het hele scherm dingen k
 Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
 gelijkheid.
 
+
+sprint 2:
+
 18 september:
 
 Wat zijn HTML landmark role elements?
@@ -309,6 +308,15 @@ Een screenreader, omdat het gewoon lang duurt en mijn website ook beweging heeft
 Met welke beperking rekening houden vind je het meest lastig? 
 ALs je het toetsenbord niet kan besturen.
 
+<img width="2358" height="1708" alt="image" src="https://github.com/user-attachments/assets/f0b652d7-4d09-4333-8bd6-18f5f5382981" />
+<img width="2464" height="1746" alt="image" src="https://github.com/user-attachments/assets/5fd64bf4-5d79-43f8-b9df-4e0c89fbe86a" />
+
+Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken. Dit betekent dat ik er eindelijk in kom en meer process begin te maken, waarin ik in de eerste sprint totaal verblind was door alle wolken is het nu allemaal een stuk meer helder.
+
+
+
+
+
 sprint 3
 
 5 oktober
@@ -363,6 +371,11 @@ Ik zou bepaalde woorden waar een toon verschil is laten bewegen. ‘Down’ kan 
 
 <img width="1304" height="1258" alt="image" src="https://github.com/user-attachments/assets/e919fb84-c204-4c1b-8cbb-85c16637e576" />
 
+<img width="2000" height="1392" alt="image" src="https://github.com/user-attachments/assets/6e27db82-eae3-4de0-8718-83008a4cc710" />
+<img width="2244" height="1406" alt="image" src="https://github.com/user-attachments/assets/85907094-6753-4dca-9200-400af5016a00" />
+
+Ik heb een tekening gemaakt waarin wisselvallig weer te zien is, dit betekent dat ik dit blok best chaotisch verliep. Mijn ideeen veranderden vaak, feedback verschilde en vanwege dat ik ziek was en een abses had heb ik ook veel gemist. Door al deze gebeurtenissen liep het soms best stroef, maar is het uiteindelijk wel gelukt.
+
 
 
 https://codepen.io/your-work?item_type=PEN
@@ -394,6 +407,10 @@ Responsive grid + Grid-areas:
 
 <img width="2440" height="1330" alt="image" src="https://github.com/user-attachments/assets/54ea2bc3-ada8-4113-a8dd-6ab4caef8006" />
 <img width="2432" height="1398" alt="image" src="https://github.com/user-attachments/assets/7d8f9ffa-24f4-42e4-b508-d554b929f186" />
+
+Bronnen:
+https://www.dafont.com/theme.php?cat=302
+https://ai.google/ - Mijn AI zoekbalk staat aan in google, hieruit heb ik sommige informatie over elektronische muziek gehaald of vragen gesteld over mijn code als deze niet werkte en javascript. 
 
 
 
