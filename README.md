@@ -151,9 +151,15 @@ Bij een consent component moet ik zorgen dat de gebruiker een vrije en duidelijk
 
 23 september: 
 
+Check out:
 Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+HTML-validatie is het controleren of je HTML-code volgens de officiële regels is geschreven. Je ontdekt fouten die je website minder betrouwbaar of toegankelijk kunnen maken. 
+
 Welke dingen vielen je op?
+Ik had veel losse hafe stukjes code die weg konden.
+
 Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+Was ziek.
 
 25 september
 
