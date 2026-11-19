@@ -291,6 +291,10 @@ Ik heb een tekening gemaakt waarin wisselvallig weer te zien is, dit betekent da
 <img width="1012" height="748" alt="image" src="https://github.com/user-attachments/assets/479966b8-6783-4088-8c85-043b97218902" />
 Na feedback heb ik nog een font toegevoegd, screenreader gefixt, home pagina responsive gemaakt en de dark/light mode gefixt.
 
+Bi weekly 3
+<img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
+
+
 ## Songtekst
 
 ### Let it happen - Tame Impala
