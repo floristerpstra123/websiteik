@@ -83,6 +83,10 @@ Grid 101 + Media queries:
 14 september:
 
 Bi weekly:
+<img width="2194" height="1476" alt="image" src="https://github.com/user-attachments/assets/3083edff-99ab-496a-b285-0ef87f7403f3" />
+<img width="2138" height="1484" alt="image" src="https://github.com/user-attachments/assets/b4d32b1b-7e2d-4eda-9673-0c7d8c9af70d" />
+
+
 
 
 checkout: 
@@ -179,11 +183,14 @@ Oogzicht, cognitief, fysieke beperkingen, motorieke skills, gehoor.
 Noem drie manieren om door een website te navigeren met jouw screenreader.
 via tap, geluid en de pijltjes.
 
+Bi weekly geek 2
+
 30 september 
 
 <img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/6eae49c1-3d68-41c3-95d5-23911848ebde" />
 Voor mijn voorstel pagina heb ik een afbeelding van mijn gezicht in de app halftone gezet en met een stippen filter mijn gezicht bewerkt, hierdoor kreeg het een mysterieuze uitstraling. Voot de lettertype heb ik AlteHaasGrotesk gebruikt zodat de tekst leesbaar blijft en er niet te chaotisch uitziet.
 
+<img width="1084" height="1436" alt="image" src="https://github.com/user-attachments/assets/73c60ee2-c47f-4696-9c4f-14678c70756e" />
 <img width="3014" height="1564" alt="image" src="https://github.com/user-attachments/assets/fc227593-b608-4da4-a05d-3928ac993dd9" />
 Ik heb vandaag ook de geschiedenis pagina gemaakt. Ik wilde hier een scroll functie hebben waardoor je soortvan door de tijd heen schrolt als een tijdlijn, dus je begint bij de oorsprong en per scroll ga je verder de toekomst in. Onderin heb ik ook een lijn gemaakt wat het duidelijker maakt dat het echt een tijdlijn is. Ik heb de tekst velgroen gemaakt zodat het echt een electronic vibe uitstraalt.
 
@@ -202,7 +209,8 @@ ALs je het toetsenbord niet kan besturen.
 
 Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken. Dit betekent dat ik er eindelijk in kom en meer process begin te maken, waarin ik in de eerste sprint totaal verblind was door alle wolken is het nu allemaal een stuk meer helder.  
 
-23
+
+
 sprint 3
 
 5 oktober
