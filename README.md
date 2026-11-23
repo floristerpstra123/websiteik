@@ -209,6 +209,8 @@ ALs je het toetsenbord niet kan besturen.
 
 Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken. Dit betekent dat ik er eindelijk in kom en meer process begin te maken, waarin ik in de eerste sprint totaal verblind was door alle wolken is het nu allemaal een stuk meer helder.  
 
+Bi weekly 3
+<img width="1710" height="1018" alt="image" src="https://github.com/user-attachments/assets/84810f85-8da0-45b1-a13d-1e0557699ce0" />
 
 
 sprint 3
