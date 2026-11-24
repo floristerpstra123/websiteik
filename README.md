@@ -15,7 +15,7 @@
 7 september:
 
 
-<details><summary>Lees meer</summary></details>
+<details><summary>Lees meer</summary>
 
 checkout:
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
@@ -31,7 +31,7 @@ Light en dark:
 <img width="2436" height="1598" alt="image" src="https://github.com/user-attachments/assets/7231ce10-d1a9-4e36-9df0-a776bab1dbac" />
 <img width="2422" height="1608" alt="image" src="https://github.com/user-attachments/assets/359d36c7-4929-432a-b280-05ef3cac3f58" />
 
-<details>
+</details>
 
 9 September:
 
