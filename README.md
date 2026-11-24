@@ -322,6 +322,7 @@ Bi weekly 3
 </details>
 ## Songtekst
 
+<details><summary>Lees meer</summary>
 ### Let it happen - Tame Impala
 
 <img width="3024" height="4032" alt="IMG_7273" src="https://github.com/user-attachments/assets/0d58609d-720e-4635-9d65-5ab24465496a" />
@@ -352,8 +353,11 @@ Vier losse woorden hebben een eigen animatie, gebaseerd op hoe ze klinken of wat
 ‘Morning’ verschijnt langzaam en beweegt iets omhoog. Dit is het einde van de beweging: alsof je wakker wordt en de ochtend langzaam tot je doordringt.
 De animaties zijn dus niet alleen toegevoegd om de pagina te laten bewegen. Elk woord heeft een eigen beweging die aansluit op mijn gevoel bij de muziek of op de betekenis van het woord.
 
+</details>
+
 ## Homepagina
 
+<details><summary>Lees meer</summary>
 ### Wat staat erop?
 
 De homepagina moet meteen duidelijk maken waar de website over gaat. Daarom staat ‘Electronic music’ groot in beeld, met mijn naam eronder. Veel uitleg is hier niet nodig; daarvoor zijn de andere pagina’s. Een korte instructie verwijst naar de navigatie.
@@ -484,7 +488,7 @@ Zo hebben de pagina’s wel hun eigen indeling, maar zorgen de fonts, kleuren en
 <img width="1870" height="1062" alt="image" src="https://github.com/user-attachments/assets/789ef54c-9863-4a33-bbf6-641d66ed26f9" />
 Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb gekregen, hiermee zie ik wel dat mensen doorhebben wat ik probeer uit te beelden.
 
-
+</details>
 
 https://codepen.io/your-work?item_type=PEN
 Ik heb niet alle deepdives opgeslagen dus hieronder nog wat foto's van opdrachten.
