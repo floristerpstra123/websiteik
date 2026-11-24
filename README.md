@@ -34,7 +34,7 @@ Light en dark:
 </details>
 
 9 September:
-
+<details><summary>Lees meer</summary>
 <img width="854" height="1198" alt="image" src="https://github.com/user-attachments/assets/945e2a14-ab97-4b4f-adc6-5ce82b077eb7" />
 <img width="846" height="744" alt="image" src="https://github.com/user-attachments/assets/b8f8c0c5-cea9-47e9-9937-10faa515f3b6" />
 <img width="968" height="1040" alt="image" src="https://github.com/user-attachments/assets/0ad4411c-f9dc-4e66-b85d-9daa428c04c0" />
@@ -54,8 +54,10 @@ Mijn garden gaat over de geschiedenis van elektronische muziek, ik ga veel gebru
 Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 iets met dat je naar rechts kan swipen, door de jaren heen bijvoorbeeld.
 
+</details>
 
 11 en 14 september:
+<details><summary>Lees meer</summary>
 
 Checkout:
 Welke feedback heb je gehad?
@@ -84,15 +86,13 @@ Grid 101 + Media queries:
 <img width="2430" height="1438" alt="image" src="https://github.com/user-attachments/assets/03b806dc-4c10-431b-9fa5-2133897921da" />
 <img width="2420" height="1426" alt="image" src="https://github.com/user-attachments/assets/19021d9d-8527-4651-91fc-32c326e978cb" />
 
+</details>
 
 14 september:
-
+<details><summary>Lees meer</summary>
 Bi weekly:
 <img width="2194" height="1476" alt="image" src="https://github.com/user-attachments/assets/3083edff-99ab-496a-b285-0ef87f7403f3" />
 <img width="2138" height="1484" alt="image" src="https://github.com/user-attachments/assets/b4d32b1b-7e2d-4eda-9673-0c7d8c9af70d" />
-
-
-
 
 checkout: 
 
@@ -105,8 +105,10 @@ Flexbox en grid toepassen.
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 nee
 
-16 september:
+</details>
 
+16 september:
+<details><summary>Lees meer</summary>
 Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
 nabijhheid: elementen die dicht bij elkaar staan worden gezien als 1 groep. gelijkheid: Elementen die visueel op elkaar lijken. sluiting: Elementen die in dezelfde richting bewegen.
 
@@ -119,9 +121,12 @@ gelijkheid.
 Retrospect: 
 Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een pad die langzaam omhoog gaat. Dit moet laten zien dat ik nu nog onderaan het pad sta maar mijn reis naar boven begin, ik heb het naast school erg druk met werk dus daardoor liep ik een beetje achter en de code maakt me op dit moment een beetje bang omdat ik er nog niks van begrijp. Maar ik ben begonnen met brainstormen, code leren en het huiswerk maken en nu begin ik er meer in te raken.
 
+</details>
+
 sprint 2:
 
 18 september:
+<details><summary>Lees meer</summary>
 
 Ik heb besloten om toch het audio equalizer idee niet door te zetten, omdat ik toch liever met mijn eerste idee verder wil, namelijk een club/elektronische geinspireerde website. 
 
@@ -135,9 +140,11 @@ Headings zijn <h1> tot en met <h6>. Je gebruikt ze in een logische volgorde: een
 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Voor dit college accepteerde ik cookies vaak snel zonder echt te kijken waarvoor ze waren. Nu weet ik beter dat cookies gebruikt kunnen worden voor bijvoorbeeld analyse, voorkeuren en gepersonaliseerde advertenties. Daarom let ik nu meer op welke cookies noodzakelijk zijn en kies ik liever voor het weigeren van niet-noodzakelijke trackingcookies. Op mijn eigen website zou ik alleen cookies gebruiken als ze echt nodig zijn.
+</details>
 
 21 september:
-
+<details><summary>Lees meer</summary>
+  
 <img width="2082" height="1522" alt="image" src="https://github.com/user-attachments/assets/187e6917-3f69-439c-adfb-21d676db0f26" />
 Ik wil in mijn website knoppen hebben waarmee je naar beneden en boven kan scrollen en steeds in een andere sfeer beland.
 
@@ -157,9 +164,10 @@ Roach motel: het heel makkelijk maken om je aan te melden, maar moeilijk om je w
 Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
 Bij een consent component moet ik zorgen dat de gebruiker een vrije en duidelijke keuze kan maken. Ik moet helder uitleggen waarvoor toestemming wordt gevraagd, bijvoorbeeld voor analytics of marketingcookies. Accepteren en weigeren moeten even makkelijk en zichtbaar zijn. Ook mag ik geen misleidende teksten, vooraf aangevinkte opties of dark patterns gebruiken.
 
-
+</details>
 23 september: 
-
+<details><summary>Lees meer</summary>
+  
 Check out:
 Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
 HTML-validatie is het controleren of je HTML-code volgens de officiële regels is geschreven. Je ontdekt fouten die je website minder betrouwbaar of toegankelijk kunnen maken. 
@@ -170,8 +178,11 @@ Ik had veel losse hafe stukjes code die weg konden.
 Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
 Was ziek.
 
-25 september
+</details>
 
+25 september
+<details><summary>Lees meer</summary>
+  
 <img width="2552" height="1684" alt="image" src="https://github.com/user-attachments/assets/806e38a8-6462-4a7b-a785-e121b6e0a421" />
 Ik heb een clubachtige lettertype ingeladen en in mijn website gezet. Op de achtergrond staan verschillende engelse zinnen over elektronische muziek, die over het scherm bewegen heen en weer, ik wil hierdoor een energieke en chaotische sfeer te creeeren.
 
@@ -190,8 +201,11 @@ via tap, geluid en de pijltjes.
 
 Bi weekly geek 2
 
-30 september 
 
+</details>
+30 september 
+<details><summary>Lees meer</summary>
+  
 <img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/6eae49c1-3d68-41c3-95d5-23911848ebde" />
 Voor mijn voorstel pagina heb ik een afbeelding van mijn gezicht in de app halftone gezet en met een stippen filter mijn gezicht bewerkt, hierdoor kreeg het een mysterieuze uitstraling. Voot de lettertype heb ik AlteHaasGrotesk gebruikt zodat de tekst leesbaar blijft en er niet te chaotisch uitziet.
 
@@ -214,6 +228,8 @@ ALs je het toetsenbord niet kan besturen.
 
 Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken. Dit betekent dat ik er eindelijk in kom en meer process begin te maken, waarin ik in de eerste sprint totaal verblind was door alle wolken is het nu allemaal een stuk meer helder.  
 
+</details>
+
 Bi weekly 3
 <img width="1710" height="1018" alt="image" src="https://github.com/user-attachments/assets/84810f85-8da0-45b1-a13d-1e0557699ce0" />
 
@@ -221,7 +237,7 @@ Bi weekly 3
 sprint 3
 
 5 oktober
-
+<details><summary>Lees meer</summary>
 <img width="1056" height="654" alt="image" src="https://github.com/user-attachments/assets/af8a3098-2ff9-4130-adcc-35386b20f4b7" />
 <img width="438" height="226" alt="image" src="https://github.com/user-attachments/assets/ceb854c6-b490-43cd-a291-f996c9604ae4" />
 
@@ -255,8 +271,10 @@ Mijn ideale regellengte is ongeveer 60 tekens per regel, inclusief spaties. Dit 
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 Ik zou grootte gebruiken. Met een grote titel, kleinere tussenkoppen en nog kleinere lopende tekst is snel duidelijk wat het belangrijkste is. Zo kan de gebruiker de pagina makkelijk scannen, ook als ik overal hetzelfde lettertype gebruik.
 
-7 oktober
+</details>
 
+7 oktober
+<details><summary>Lees meer</summary>
 <img width="3020" height="1694" alt="image" src="https://github.com/user-attachments/assets/f96010dd-0f38-4993-b40f-572da8156b5b" />
 <img width="3018" height="1718" alt="image" src="https://github.com/user-attachments/assets/0975b039-e061-410d-88dc-8c94a44ec319" />
 Ik heb de frequency/genre pagina gemaakt met een scroll functie naar beneden. Ik had al eerder gezegd dat ik dit in miojn website wilde met knoppen die je naar beneden en boven brengen. Ik heb bij elk genre een andere achtergrond vormgegeven met kleur om echt dat specifieke genre gevoel te versterken.
@@ -274,9 +292,9 @@ Voor mij genoeg om het ontwerp een eigen karakter te geven, maar niet zoveel dat
 
 <img width="2092" height="1516" alt="image" src="https://github.com/user-attachments/assets/a632180b-87cc-485e-a1e3-8bf259134e73" />
 
-
+</details>
 9 oktober
-
+<details><summary>Lees meer</summary>
 Checkout:
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 Ik gebruik vooral grootte, plaatsing, spacing en schuine tekst. De woorden staan niet op rechte regels, maar volgen een slingerende route. Aan het einde wordt de tekst groter en staat ‘morning’ cursief.
@@ -301,7 +319,7 @@ Na feedback heb ik nog een font toegevoegd, screenreader gefixt, home pagina res
 Bi weekly 3
 <img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
 
-
+</details>
 ## Songtekst
 
 ### Let it happen - Tame Impala
