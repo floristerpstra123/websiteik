@@ -6,8 +6,6 @@
 
 3: Website opbouw en vormgeving uitleg
 
-
-
 ## 1: Process en check out vragen
 
 #sprint 1
