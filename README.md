@@ -121,7 +121,7 @@ Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een
 
 </details>
 
-sprint 2:
+# sprint 2:
 
 18 september:
 <details><summary>Lees meer</summary>
@@ -232,7 +232,7 @@ Bi weekly 3
 <img width="1710" height="1018" alt="image" src="https://github.com/user-attachments/assets/84810f85-8da0-45b1-a13d-1e0557699ce0" />
 
 
-sprint 3
+# sprint 3
 
 5 oktober
 <details><summary>Lees meer</summary>
