@@ -323,6 +323,8 @@ Bi weekly 3
 ## Songtekst
 
 <details><summary>Lees meer</summary>
+
+##  2: Lyrics process
 ### Let it happen - Tame Impala
 
 <img width="3024" height="4032" alt="IMG_7273" src="https://github.com/user-attachments/assets/0d58609d-720e-4635-9d65-5ab24465496a" />
@@ -355,6 +357,8 @@ De animaties zijn dus niet alleen toegevoegd om de pagina te laten bewegen. Elk 
 
 </details>
 
+## 3: Website opbouw en vormgeving uitleg
+<details><summary>Lees meer</summary>
 ## Homepagina
 
 <details><summary>Lees meer</summary>
