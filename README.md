@@ -6,6 +6,9 @@
 
 3: Website opbouw en vormgeving uitleg
 
+Als feedback heb ik gekregen om mijn process
+
+
 ## 1: Process en check out vragen
 
 # sprint 1
