@@ -12,6 +12,7 @@
 
 #sprint 1
 
+<details><summary>Lees meer</summary></details>
 7 september:
 
 checkout:
@@ -28,6 +29,7 @@ Light en dark:
 <img width="2436" height="1598" alt="image" src="https://github.com/user-attachments/assets/7231ce10-d1a9-4e36-9df0-a776bab1dbac" />
 <img width="2422" height="1608" alt="image" src="https://github.com/user-attachments/assets/359d36c7-4929-432a-b280-05ef3cac3f58" />
 
+</details>
 9 September:
 
 <img width="854" height="1198" alt="image" src="https://github.com/user-attachments/assets/945e2a14-ab97-4b4f-adc6-5ce82b077eb7" />
