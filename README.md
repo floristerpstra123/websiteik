@@ -8,9 +8,9 @@
 
 ## 1: Process en check out vragen
 
-#sprint 1
+# sprint 1
 
-#7 september:
+# 7 september:
 
 
 <details><summary>Lees meer</summary>
