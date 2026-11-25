@@ -176,6 +176,7 @@ Bij een consent component moet ik zorgen dat de gebruiker een vrije en duidelijk
 
 Ik was vandaag helaas ziek maar ik heb alsnog de cookie pop up schetsen gemaakt.
 Cookie pop up schetsen:
+<img width="1878" height="1504" alt="image" src="https://github.com/user-attachments/assets/70d5774b-480d-435f-8081-684021a8d9fb" />
 
 
 Check out:
