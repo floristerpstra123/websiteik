@@ -603,15 +603,8 @@ Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb
 </details>
 
 https://codepen.io/your-work?item_type=PEN
-Ik heb niet alle deepdives opgeslagen dus hieronder nog wat foto's van opdrachten.
+Hier nog de link naar mijn codepen.
 
-
-
-
-Responsive grid + Grid-areas:
-
-<img width="2440" height="1330" alt="image" src="https://github.com/user-attachments/assets/54ea2bc3-ada8-4113-a8dd-6ab4caef8006" />
-<img width="2432" height="1398" alt="image" src="https://github.com/user-attachments/assets/7d8f9ffa-24f4-42e4-b508-d554b929f186" />
 
 Bronnen:
 https://www.dafont.com/theme.php?cat=302
