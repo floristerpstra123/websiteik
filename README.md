@@ -384,15 +384,16 @@ Na feedback heb ik nog een font toegevoegd om het leesbaarder te maken, screenre
 <details><summary>Bi weekly geek 3</summary>
 <img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
 </details>
+</details>
 
-Maandag 19 oktober 
+19 oktober 
 <details><summary>Lees meer</summary>
 <details><summary>Hoe webby is mijn website?</summary>
 <img width="2092" height="1516" alt="image" src="https://github.com/user-attachments/assets/a632180b-87cc-485e-a1e3-8bf259134e73" />
 </details>
 </details>
 
-Woensdag 21 oktober
+21 oktober
 <details><summary>Lees meer</summary>
 <details><summary>Peerfeedback</summary>
 <img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/568bee53-c6e1-4cf5-b12c-c3106426c826" />
@@ -401,14 +402,16 @@ Na feedback heb ik nog een font toegevoegd om het leesbaarder te maken, screenre
 </details>
 </details>
 
-Maandag 26 oktober
+26 oktober
 <details><summary>Lees meer</summary>
  <details><summary>Hoe webby is mijn eindproduct?</summary> 
 <img width="2056" height="1496" alt="image" src="https://github.com/user-attachments/assets/176d67f1-b965-4bfa-b31f-4d0f1ce69cfc" />
+ Ik heb met tim de hoe webby is jou eindproduct ingevuld. Hij was super positief en hij had bijna geen tips meer, dit vond ik super fijn, omdat ik bij mijn vorige webby formulier nog best veel moest aanpassen.
 </details>
 
  <details><summary>Hoe log is mijn learning log</summary>   
 <img width="2130" height="1488" alt="image" src="https://github.com/user-attachments/assets/9c1e7e40-355f-44b0-8bdd-64be9eddc28c" />
+   Voor mijn learninglog moest ik nog de bi weekly geeks erin zetten, nog wat schetsen en de retrospects. Die heb ik uiteindelijk allemaal toegevoegd.
 </details>
   
 <details><summary>Expositie</summary>
