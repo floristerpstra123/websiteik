@@ -10,7 +10,7 @@
 
 ## 1: Process en check out vragen
 
-31 augustus: Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+
 # sprint 1
 
 7 september:
