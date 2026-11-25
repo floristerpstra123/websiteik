@@ -306,6 +306,9 @@ Voor mij genoeg om het ontwerp een eigen karakter te geven, maar niet zoveel dat
 </details>
 9 oktober
 <details><summary>Lees meer</summary>
+
+Ik vertel later nog over mijn songtekst alleen ik was op dit moment heel ziek en had ook een keelontsteking waardoor ik een beetje achterliep met de songtekst.
+
 Checkout:
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 Ik gebruik vooral grootte, plaatsing, spacing en schuine tekst. De woorden staan niet op rechte regels, maar volgen een slingerende route. Aan het einde wordt de tekst groter en staat ‘morning’ cursief.
