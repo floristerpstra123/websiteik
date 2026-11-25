@@ -239,6 +239,8 @@ ALs je het toetsenbord niet kan besturen.
 
 Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken. Dit betekent dat ik er eindelijk in kom en meer process begin te maken, waarin ik in de eerste sprint totaal verblind was door alle wolken is het nu allemaal een stuk meer helder.  
 
+Feedback: Ik moest de code nog flink aanpassen want die was nog niet helemaal juist, ik kreeg ook de tip om alles ccs in 1 bestand te zetten want nu is het best wel een chaos met heel bestanden, wat ook meer tijd kost.
+
 </details>
 
 # sprint 3
