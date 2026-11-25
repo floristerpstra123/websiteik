@@ -4,7 +4,7 @@
 
 2: Lyrics process
 
-3: Website opbouw en vormgeving uitleg
+3: Website opbouw code en vormgeving uitleg
 
 
 
@@ -328,7 +328,7 @@ Ik heb een tekening gemaakt waarin wisselvallig weer te zien is, dit betekent da
 
 <img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/568bee53-c6e1-4cf5-b12c-c3106426c826" />
 <img width="1012" height="748" alt="image" src="https://github.com/user-attachments/assets/479966b8-6783-4088-8c85-043b97218902" />
-Na feedback heb ik nog een font toegevoegd, screenreader gefixt, home pagina responsive gemaakt en de dark/light mode gefixt.
+Na feedback heb ik nog een font toegevoegd om het leesbaarder te maken, screenreader gefixt, home pagina responsive gemaakt en de dark/light mode gefixt.
 
 Bi weekly 3
 <img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
