@@ -210,6 +210,7 @@ Noem drie manieren om door een website te navigeren met jouw screenreader.
 via tap, geluid en de pijltjes.
 
 Bi weekly geek 2
+<img width="1618" height="1130" alt="image" src="https://github.com/user-attachments/assets/8209f0af-b9e4-4e34-aa44-ecd5cae61679" />
 
 
 </details>
