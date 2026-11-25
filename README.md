@@ -131,7 +131,10 @@ Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een
 
 Ik heb besloten om toch het audio equalizer idee niet door te zetten, omdat ik toch liever met mijn eerste idee verder wil, namelijk een club/elektronische geinspireerde website, omdat ik niet alleen wil focussen op de muziek zelf maar ook op de geschiedenis ervan en de sfeer goed laten overbrengen. Ik wil een soort donkere club/concert sfeer creeren door neon kleuren en fonts die echt een electronic music sfeer geeft. 
 
-Ik ben begonnen met mijn home pagina, bovenaan heb ik met grid de knoppen geplaatst, tekst in het midden, ik weet alleen nog niet echt wat ik daar wil zetten.
+Ik ben begonnen met mijn home pagina, bovenaan heb ik met grid de knoppen geplaatst. In plaats van dark/light mode wil ik het day/night mode noemen om meer de club sfeer erin te brengen. 
+
+
+
 
 
 
