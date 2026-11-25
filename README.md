@@ -6,11 +6,11 @@
 
 3: Website opbouw en vormgeving uitleg
 
-Als feedback heb ik gekregen om mijn process
 
 
 ## 1: Process en check out vragen
 
+31 augustus: Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 # sprint 1
 
 7 september:
@@ -28,7 +28,7 @@ Een wbesite is webby als het goed kan worden bestuurd en het scherm word aangepa
 Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 Ik wil een website maken dat voelt als een interactieve ervaring die de gebruiker vermaakt.
 
-Light en dark:
+Deep dive Light en dark:
 <img width="2436" height="1598" alt="image" src="https://github.com/user-attachments/assets/7231ce10-d1a9-4e36-9df0-a776bab1dbac" />
 <img width="2422" height="1608" alt="image" src="https://github.com/user-attachments/assets/359d36c7-4929-432a-b280-05ef3cac3f58" />
 
@@ -57,14 +57,14 @@ iets met dat je naar rechts kan swipen, door de jaren heen bijvoorbeeld.
 
 </details>
 
-11 en 14 september:
+11 september:
 <details><summary>Lees meer</summary>
 
 Checkout:
 Welke feedback heb je gehad?
 Om voor de geschiedenis pagina voor elk jaartal een ander bijpassend thema te maken.
 
-Ik ben van plan om een audio equalizer te maken met knoppen die lijden naar andere paginas waar meer informatie staat over mijn onderwerp.
+Ik ben van plan om een audio equalizer te maken met knoppen die lijden naar andere paginas waar meer informatie staat over mijn onderwerp. Hierdoor wijk ik toch af van mijn originele idee om een meer club/concert achtige vormgeving te maken.
 
 
 <img width="1164" height="1360" alt="image" src="https://github.com/user-attachments/assets/e89d5e64-89aa-4c6a-8cbb-9ea900c71c36" />
@@ -129,15 +129,20 @@ Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een
 18 september:
 <details><summary>Lees meer</summary>
 
-Ik heb besloten om toch het audio equalizer idee niet door te zetten, omdat ik toch liever met mijn eerste idee verder wil, namelijk een club/elektronische geinspireerde website. 
+Ik heb besloten om toch het audio equalizer idee niet door te zetten, omdat ik toch liever met mijn eerste idee verder wil, namelijk een club/elektronische geinspireerde website, omdat ik niet alleen wil focussen op de muziek zelf maar ook op de geschiedenis ervan en de sfeer goed laten overbrengen. Ik wil een soort donkere club/concert sfeer creeren door neon kleuren en fonts die echt een electronic music sfeer geeft. 
+
+Ik ben begonnen met mijn home pagina, bovenaan heb ik met grid de knoppen geplaatst, tekst in het midden, ik weet alleen nog niet echt wat ik daar wil zetten.
+
+
+
 
 
 check out:
 Wat zijn HTML landmark role elements?
-Landmark elements geven de belangrijkste delen van een webpagina aan. Voorbeelden zijn <header>, <nav>, <main>, <aside> en <footer>. Ze helpen screenreadergebruikers om snel door een pagina te navigeren.
+Landmark elements geven de belangrijkste delen van een webpagina aan. Voorbeelden zijn header, nav, main, aside en footer. Ze helpen screenreadergebruikers om snel door een pagina te navigeren.
 
 Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Headings zijn <h1> tot en met <h6>. Je gebruikt ze in een logische volgorde: een <h1> is de hoofdtitel, <h2> zijn hoofdonderwerpen en <h3> zijn onderdelen daarvan. Je slaat dus liever geen niveau over, zoals direct van <h1> naar <h3>.
+Headings zijn h1 tot en met h6. Je gebruikt ze in een logische volgorde: een h1 is de hoofdtitel, h2 zijn hoofdonderwerpen en h3 zijn onderdelen daarvan. Je slaat dus liever geen niveau over, zoals direct van h1 naar h3.
 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Voor dit college accepteerde ik cookies vaak snel zonder echt te kijken waarvoor ze waren. Nu weet ik beter dat cookies gebruikt kunnen worden voor bijvoorbeeld analyse, voorkeuren en gepersonaliseerde advertenties. Daarom let ik nu meer op welke cookies noodzakelijk zijn en kies ik liever voor het weigeren van niet-noodzakelijke trackingcookies. Op mijn eigen website zou ik alleen cookies gebruiken als ze echt nodig zijn.
