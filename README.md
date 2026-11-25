@@ -16,7 +16,7 @@
 <details><summary>Lees meer</summary>
 
 <details><summary>Checkout</summary>
-checkout:
+
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 Een digital garden is een website vol met verschillende ideeen en onderwerpen waar je door heen kan kijken die iemand persoonlijk heeft gemaakt.
 
@@ -49,8 +49,8 @@ Mijn idee is om een website te maken over elektronische muziek en de impact die 
 Qua vormgeving wil ik een clubachtige sfeer creëren met felle neonkleuren, bewegende teksten en vloeiende gradients. Door blur en lichteffecten te gebruiken, wil ik het gevoel van een donkere club met kleurrijke verlichting overbrengen. De beweging op de website moet aansluiten bij de energie en het ritme van elektronische muziek.
 </details>
 
-<details><summary>Checkout</summary>
-checkout:
+<details><summary>Check out</summary>
+
 Leg uit waar het Visual Research in 3 stappen naartoe werkt
 Door visual research doe je ideeen op door vormen en kleuren die de vormgeving bepalen.
 
@@ -66,10 +66,13 @@ iets met dat je naar rechts kan swipen, door de jaren heen bijvoorbeeld.
 11 september:
 <details><summary>Lees meer</summary>
 
-Checkout:
+<details><summary>Check out</summary>
+  
 Welke feedback heb je gehad?
 Om voor de geschiedenis pagina voor elk jaartal een ander bijpassend thema te maken.
+</details>
 
+<details><summary>Eerste ideeen</summary>
 Ik ben van plan om een audio equalizer te maken met knoppen die lijden naar andere paginas waar meer informatie staat over mijn onderwerp. Hierdoor wijk ik toch af van mijn originele idee om een meer club/concert achtige vormgeving te maken.
 
 
@@ -78,7 +81,9 @@ Ik ben van plan om een audio equalizer te maken met knoppen die lijden naar ande
 <img width="822" height="1349" alt="image" src="https://github.com/user-attachments/assets/5a698d74-76f2-4722-bbd0-838392224b44" />
 
 <img width="1062" height="1714" alt="image" src="https://github.com/user-attachments/assets/db35d686-eda9-4c5d-bbc2-091511be6ad7" />
+</details>
 
+<details><summary>Deep Dive</summary>
 Grid 101 + Media queries: 
 
 <img width="2968" height="1724" alt="image" src="https://github.com/user-attachments/assets/22ab38da-8166-49bc-a246-a85f5d478339" />
@@ -92,16 +97,19 @@ Grid 101 + Media queries:
 
 <img width="2430" height="1438" alt="image" src="https://github.com/user-attachments/assets/03b806dc-4c10-431b-9fa5-2133897921da" />
 <img width="2420" height="1426" alt="image" src="https://github.com/user-attachments/assets/19021d9d-8527-4651-91fc-32c326e978cb" />
+</details>
 
 </details>
 
 14 september:
 <details><summary>Lees meer</summary>
-Bi weekly:
+
+<details><summary>Bi weekly 1</summary>  
 <img width="2194" height="1476" alt="image" src="https://github.com/user-attachments/assets/3083edff-99ab-496a-b285-0ef87f7403f3" />
 <img width="2138" height="1484" alt="image" src="https://github.com/user-attachments/assets/b4d32b1b-7e2d-4eda-9673-0c7d8c9af70d" />
+</details>
 
-checkout: 
+<details><summary>Check out</summary>
 
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 Een website word lelijk als de layout niet klopt vergeleken met je scherm, dit fix je met flexbox, grid.
@@ -111,11 +119,13 @@ Flexbox en grid toepassen.
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 nee
-
+</details>
 </details>
 
 16 september:
 <details><summary>Lees meer</summary>
+
+<details><summary>Check out</summary>
 Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
 nabijhheid: elementen die dicht bij elkaar staan worden gezien als 1 groep. gelijkheid: Elementen die visueel op elkaar lijken. sluiting: Elementen die in dezelfde richting bewegen.
 
@@ -124,10 +134,12 @@ Met een grid kun je de lay out aanpassen waardoor je op het hele scherm dingen k
 
 Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
 gelijkheid.
+</details>
 
+<details><summary>Retrospect</summary>
 Retrospect: 
 Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een pad die langzaam omhoog gaat. Dit moet laten zien dat ik nu nog onderaan het pad sta maar mijn reis naar boven begin, ik heb het naast school erg druk met werk dus daardoor liep ik een beetje achter en de code maakt me op dit moment een beetje bang omdat ik er nog niks van begrijp. Maar ik ben begonnen met brainstormen, code leren en het huiswerk maken en nu begin ik er meer in te raken.
-
+</details>
 </details>
 
 # sprint 2:
@@ -135,15 +147,19 @@ Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een
 18 september:
 <details><summary>Lees meer</summary>
 
+<details><summary>Nieuw idee</summary>
 Ik heb besloten om toch het audio equalizer idee niet door te zetten, omdat ik toch liever met mijn eerste idee verder wil, namelijk een club/elektronische geinspireerde website, omdat ik niet alleen wil focussen op de muziek zelf maar ook op de geschiedenis ervan en de sfeer goed laten overbrengen. Ik wil een soort donkere club/concert sfeer creeren door neon kleuren en fonts die echt een electronic music sfeer geeft. 
+</details>
 
+<details><summary>Home pagina</summary>
 Ik ben begonnen met mijn home pagina, bovenaan heb ik met grid de knoppen geplaatst. In plaats van dark/light mode wil ik het day/night mode noemen om meer de club sfeer erin te brengen. Ik heb met een hover ervoor gezorgt dat de knop neon roze kleurt als de gebruiker zich op die pagina bevind, en als je over de knoppen gaat kleuren ze ook roze en gaan ze een klein beetje omhoog, hierdoor voelt de gebruiker echt interactie met de website.
 
 <img width="2836" height="196" alt="image" src="https://github.com/user-attachments/assets/5346580b-0702-4a2b-b0ae-b03d9d55bdbc" />
 <img width="998" height="146" alt="image" src="https://github.com/user-attachments/assets/7c93742c-60b4-4589-bd3d-51c7ee419eb9" />
+</details>
 
 
-check out:
+<details><summary>Check out</summary>
 Wat zijn HTML landmark role elements?
 Landmark elements geven de belangrijkste delen van een webpagina aan. Voorbeelden zijn header, nav, main, aside en footer. Ze helpen screenreadergebruikers om snel door een pagina te navigeren.
 
@@ -153,14 +169,17 @@ Headings zijn h1 tot en met h6. Je gebruikt ze in een logische volgorde: een h1 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Voor dit college accepteerde ik cookies vaak snel zonder echt te kijken waarvoor ze waren. Nu weet ik beter dat cookies gebruikt kunnen worden voor bijvoorbeeld analyse, voorkeuren en gepersonaliseerde advertenties. Daarom let ik nu meer op welke cookies noodzakelijk zijn en kies ik liever voor het weigeren van niet-noodzakelijke trackingcookies. Op mijn eigen website zou ik alleen cookies gebruiken als ze echt nodig zijn.
 </details>
+</details>
 
 21 september:
 <details><summary>Lees meer</summary>
-  
+
+<details><summary>Schetsen knoppen</summary>
 <img width="2082" height="1522" alt="image" src="https://github.com/user-attachments/assets/187e6917-3f69-439c-adfb-21d676db0f26" />
 Ik wil in mijn website knoppen hebben waarmee je naar beneden en boven kan scrollen en steeds in een andere sfeer beland.
+</details>
 
-checkout:
+<details><summary>Check out</summary>
 Wat is een wireflow en wat heb je er aan?
 Een wireflow is een combinatie van een wireframe en een flowchart. Het laat zien welke schermen een gebruiker ziet en welke stappen hij of zij doorloopt. Ik kan hiermee controleren of de navigatie en gebruikersroute logisch zijn voordat ik de website volledig ontwerp.
 
@@ -175,17 +194,19 @@ Roach motel: het heel makkelijk maken om je aan te melden, maar moeilijk om je w
 
 Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
 Bij een consent component moet ik zorgen dat de gebruiker een vrije en duidelijke keuze kan maken. Ik moet helder uitleggen waarvoor toestemming wordt gevraagd, bijvoorbeeld voor analytics of marketingcookies. Accepteren en weigeren moeten even makkelijk en zichtbaar zijn. Ook mag ik geen misleidende teksten, vooraf aangevinkte opties of dark patterns gebruiken.
-
 </details>
+</details>
+
 23 september: 
 <details><summary>Lees meer</summary>
 
+<details><summary>Cookie pop up schetsen</summary>
 Ik was vandaag helaas ziek maar ik heb alsnog de cookie pop up schetsen gemaakt.
 Cookie pop up schetsen:
 <img width="1878" height="1504" alt="image" src="https://github.com/user-attachments/assets/70d5774b-480d-435f-8081-684021a8d9fb" />
+</details>
 
-
-Check out:
+<details><summary>Check out</summary>
 Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
 HTML-validatie is het controleren of je HTML-code volgens de officiële regels is geschreven. Je ontdekt fouten die je website minder betrouwbaar of toegankelijk kunnen maken. 
 
@@ -194,19 +215,22 @@ Ik had veel losse hafe stukjes code die weg konden.
 
 Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
 Ik was ziek.
-
+</details>
 </details>
 
 25 september
 <details><summary>Lees meer</summary>
-  
+
+<details><summary>Fonts en animaties</summary>
 <img width="2552" height="1684" alt="image" src="https://github.com/user-attachments/assets/806e38a8-6462-4a7b-a785-e121b6e0a421" />
 Ik heb een clubachtige lettertype ingeladen en in mijn website gezet. Op de achtergrond heb ik met animaties verschillende engelse zinnen over elektronische muziek gezet, die over het scherm bewegen heen en weer, ik wil hierdoor een energieke en chaotische sfeer te creeeren.
 
 <img width="1209" height="803" alt="Screenshot 2026-10-17 at 17 16 36" src="https://github.com/user-attachments/assets/858b185e-1f55-41ab-88bd-9604d42584c7" />
 Ik heb op de achtergrond gradients gezet met behulp van de deepdive die een soortvan de bewegende clublichten moeten uitstralen. De gradients en de lettertype die heen en weer bewegen zorgen echt voor een club/concert gevoel.
+</details>
 
-checkout:
+
+<details><summary>Check out</summary>
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 Hij vind de functionaliteit en werking belangrijker
 
@@ -215,23 +239,29 @@ Oogzicht, cognitief, fysieke beperkingen, motorieke skills, gehoor.
 
 Noem drie manieren om door een website te navigeren met jouw screenreader.
 via tap, geluid en de pijltjes.
+</details>
 
-Bi weekly geek 2
+<details><summary>Bi weekly geek 2t</summary>
 <img width="1618" height="1130" alt="image" src="https://github.com/user-attachments/assets/8209f0af-b9e4-4e34-aa44-ecd5cae61679" />
 
-
 </details>
+</details>
+
 30 september 
 <details><summary>Lees meer</summary>
-  
-<img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/6eae49c1-3d68-41c3-95d5-23911848ebde" />
-Voor mijn voorstel pagina heb ik een afbeelding van mijn gezicht in de app halftone gezet en met een stippen filter mijn gezicht bewerkt, hierdoor kreeg het een mysterieuze uitstraling. Voot de lettertype heb ik AlteHaasGrotesk gebruikt zodat de tekst leesbaar blijft en er niet te chaotisch uitziet.
 
+  <details><summary>Voorstel pagina</summary>
+<img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/6eae49c1-3d68-41c3-95d5-23911848ebde" />
+Voor mijn voorstel pagina heb ik een afbeelding van mijn gezicht in de app halftone gezet en met een stippen filter mijn gezicht bewerkt, hierdoor kreeg het een mysterieuze uitstraling. Voor de lettertype heb ik AlteHaasGrotesk gebruikt zodat de tekst leesbaar blijft en er niet te chaotisch uitziet. Ik heb met grid alles op de juiste plek gezet.
+</details>
+
+<details><summary>Geschiedenis pagina</summary>
 <img width="1084" height="1436" alt="image" src="https://github.com/user-attachments/assets/73c60ee2-c47f-4696-9c4f-14678c70756e" />
 <img width="3014" height="1564" alt="image" src="https://github.com/user-attachments/assets/fc227593-b608-4da4-a05d-3928ac993dd9" />
-Ik heb vandaag ook de geschiedenis pagina gemaakt. Ik wilde hier een scroll functie hebben waardoor je soortvan door de tijd heen schrolt als een tijdlijn, dus je begint bij de oorsprong en per scroll ga je verder de toekomst in. Onderin heb ik ook een lijn gemaakt wat het duidelijker maakt dat het echt een tijdlijn is. Ik heb de tekst velgroen gemaakt zodat het echt een electronic vibe uitstraalt.
+Ik heb vandaag ook de geschiedenis pagina gemaakt. Ik wilde hier een scroll functie hebben waardoor je soortvan door de tijd heen schrolt als een tijdlijn, dus je begint bij de oorsprong en per scroll ga je verder de toekomst in. Onderin heb ik ook een lijn gemaakt wat het duidelijker maakt dat het echt een tijdlijn is. Ik wilde hier eerst een synthesizer lijn van maken die omhoog en omlaag ging maar dat vond ik toch te lastig om te coderen. Ik heb de tekst velgroen gemaakt zodat het echt een electronic vibe uitstraalt en er uitspat.
+</details>
 
-checkout:
+<details><summary>Check outr</summary>
 Waar staat WCAG en A11y voor?
 checklist voor je website of het voldoet aan de eisen.
 
@@ -241,6 +271,9 @@ Een screenreader, omdat het gewoon lang duurt en mijn website ook beweging heeft
 Met welke beperking rekening houden vind je het meest lastig? 
 ALs je het toetsenbord niet kan besturen.
 
+</details>
+
+<details><summary>Retrospect en Feedback</summary>
 <img width="2358" height="1708" alt="image" src="https://github.com/user-attachments/assets/f0b652d7-4d09-4333-8bd6-18f5f5382981" />
 <img width="2464" height="1746" alt="image" src="https://github.com/user-attachments/assets/5fd64bf4-5d79-43f8-b9df-4e0c89fbe86a" />
 
@@ -249,20 +282,21 @@ Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken
 Feedback: Ik moest de code nog flink aanpassen want die was nog niet helemaal juist, ik kreeg ook de tip om alles ccs in 1 bestand te zetten want nu is het best wel een chaos met heel bestanden, wat ook meer tijd kost. 
 
 In sprint 3 ga ik letten op mijn code en alle css bij elkaar zetten en meer informatie halen uit de deep dives en deze toepassen.
-
+</details>
 </details>
 
 # sprint 3
 
 5 oktober
 <details><summary>Lees meer</summary>
+<details><summary>Cookie pop up</summary>
 <img width="1056" height="654" alt="image" src="https://github.com/user-attachments/assets/af8a3098-2ff9-4130-adcc-35386b20f4b7" />
 <img width="438" height="226" alt="image" src="https://github.com/user-attachments/assets/ceb854c6-b490-43cd-a291-f996c9604ae4" />
 
 Ik heb een cookie pop up toegevoegd aan de home pagina, ik gebruik alleen geen externe links dus je kunt de cookies alleen accepteren. Zodra je het hebt geaccepteerd verdwijnt de cookie pop up van scherm. 
+</details>
 
-
-checkout:
+<details><summary>Check out</summary>
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
 Kerning: de ruimte tussen twee specifieke letters aanpassen, bijvoorbeeld tussen de A en V.
 
@@ -288,16 +322,18 @@ Mijn ideale regellengte is ongeveer 60 tekens per regel, inclusief spaties. Dit 
 
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 Ik zou grootte gebruiken. Met een grote titel, kleinere tussenkoppen en nog kleinere lopende tekst is snel duidelijk wat het belangrijkste is. Zo kan de gebruiker de pagina makkelijk scannen, ook als ik overal hetzelfde lettertype gebruik.
-
+</details>
 </details>
 
 7 oktober
 <details><summary>Lees meer</summary>
+<details><summary>Genre pagina</summary>  
 <img width="3020" height="1694" alt="image" src="https://github.com/user-attachments/assets/f96010dd-0f38-4993-b40f-572da8156b5b" />
 <img width="3018" height="1718" alt="image" src="https://github.com/user-attachments/assets/0975b039-e061-410d-88dc-8c94a44ec319" />
-Ik heb de frequency/genre pagina gemaakt met een scroll functie naar beneden. Ik had al eerder gezegd dat ik dit in mijn website wilde met knoppen die je naar beneden en boven brengen. Ik heb bij elk genre een andere achtergrond vormgegeven met kleur om echt dat specifieke genre gevoel te versterken. 
-
-Checkout:
+Ik heb de frequency/genre pagina gemaakt met een scroll functie naar beneden. Ik had al eerder gezegd dat ik dit in mijn website wilde met knoppen die je naar beneden en boven brengen. Ik heb bij elk genre een andere achtergrond vormgegeven met kleur om echt dat specifieke genre gevoel te versterken. Elke pagina heeft 3 korte tekstjes die vertellen over de oorsprong, het genre en de verbinding. Ik heb de tekst niet te moeilijk en lang gemaakt zodat mensen het kunnen en ook daadwerkelijk willen lezen. Door middel van gradients op de achtergrond heb ik ervoor gezorgd dat je bij elk genre een ander gevoel krijgt die past bij dat genre dat word uitgelegd.
+</details>
+  
+<details><summary>Check out</summary>
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 Voor de ontwerper geeft een grid houvast bij het plaatsen en uitlijnen van elementen. Daardoor kan ik makkelijker een consistente layout maken.
 Voor de bezoeker wordt de pagina overzichtelijker, waardoor informatie makkelijker te vinden is.
@@ -309,14 +345,14 @@ Hoeveel gekkigheid moet er in je werk zitten?
 Voor mij genoeg om het ontwerp een eigen karakter te geven, maar niet zoveel dat het onduidelijk wordt. Bij mijn website passen neonkleuren en beweging bij de clubsfeer, maar de tekst en navigatie moeten wel goed leesbaar blijven.
 
 <img width="2092" height="1516" alt="image" src="https://github.com/user-attachments/assets/a632180b-87cc-485e-a1e3-8bf259134e73" />
-
+</details>
 </details>
 9 oktober
 <details><summary>Lees meer</summary>
 
 Ik vertel later nog over mijn songtekst alleen ik was op dit moment heel ziek en had ook een keelontsteking waardoor ik een beetje achterliep met de songtekst.
 
-Checkout:
+<details><summary>Check out</summary>
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 Ik gebruik vooral grootte, plaatsing, spacing en schuine tekst. De woorden staan niet op rechte regels, maar volgen een slingerende route. Aan het einde wordt de tekst groter en staat ‘morning’ cursief.
 
@@ -326,23 +362,31 @@ Met grootte geef ik belangrijke woorden meer nadruk, vooral ‘morning’. De pl
 Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
 Ik zou bepaalde woorden waar een toon verschil is laten bewegen. ‘Down’ kan langzaam naar beneden bewegen en ‘alarm’ kan kort pulseren. Aan het einde kan ‘morning’ groter worden, zodat dat woord extra nadruk krijgt.
 
-<img width="1304" height="1258" alt="image" src="https://github.com/user-attachments/assets/e919fb84-c204-4c1b-8cbb-85c16637e576" />
 
+<img width="1304" height="1258" alt="image" src="https://github.com/user-attachments/assets/e919fb84-c204-4c1b-8cbb-85c16637e576" />
+</details>
+
+<details><summary>Retrospect</summary>
 <img width="2000" height="1392" alt="image" src="https://github.com/user-attachments/assets/6e27db82-eae3-4de0-8718-83008a4cc710" />
 <img width="2244" height="1406" alt="image" src="https://github.com/user-attachments/assets/85907094-6753-4dca-9200-400af5016a00" />
 
 Ik heb een tekening gemaakt waarin wisselvallig weer te zien is, dit betekent dat ik dit blok best chaotisch verliep. Mijn ideeen veranderden vaak, feedback verschilde en vanwege dat ik ziek was en een abses had heb ik ook veel gemist. Door al deze gebeurtenissen liep het soms best stroef, maar is het uiteindelijk wel gelukt.
+</details>
 
+<details><summary>Peerfeedback</summary>
 <img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/568bee53-c6e1-4cf5-b12c-c3106426c826" />
 <img width="1012" height="748" alt="image" src="https://github.com/user-attachments/assets/479966b8-6783-4088-8c85-043b97218902" />
 Na feedback heb ik nog een font toegevoegd om het leesbaarder te maken, screenreader gefixt, home pagina responsive gemaakt en de dark/light mode gefixt.
+</details>
 
-Bi weekly 3
+<details><summary>Bi weekly geek 3</summary>
 <img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
+</details>
 
+<details><summary>Expositie</summary>
 <img width="1870" height="1062" alt="image" src="https://github.com/user-attachments/assets/789ef54c-9863-4a33-bbf6-641d66ed26f9" />
-Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb gekregen, hiermee zie ik wel dat mensen doorhebben wat ik probeer uit te beelden.
-
+Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb gekregen, hiermee zie ik wel dat mensen doorhebben wat ik probeer uit te beelden. 
+</details>
 </details>
 
 ## 2: Song Lyrics process
