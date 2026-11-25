@@ -1,5 +1,9 @@
 # Learning Log
 
+Op basis van de ontvangen feedback heb ik mijn learning log aangepast. Bij elke datum heb ik beschreven wat ik die dag heb gedaan en de dagelijkse check-outs toegevoegd. Daarnaast heb ik een apart hoofdstuk gemaakt waarin ik dieper inga op de code en vormgeving van de website.
+
+Ook het proces van het schrijven van de songtekst heb ik in een apart hoofdstuk opgenomen. Door een abces in mijn keel was ik een tijd ziek en kon ik de songtekst niet op tijd afronden. Daarom heb ik dit onderdeel apart geplaatst, zodat het duidelijk te onderscheiden is van de rest van mijn verslag.
+
 1: Process en checkouts
 
 2: Lyrics process
