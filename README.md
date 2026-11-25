@@ -7,17 +7,15 @@
 3: Website opbouw code en vormgeving uitleg
 
 
-
 ## 1: Process en check out vragen
 
 
 # sprint 1
 
 7 september:
-
-
 <details><summary>Lees meer</summary>
 
+<details><summary>Checkout</summary>
 checkout:
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 Een digital garden is een website vol met verschillende ideeen en onderwerpen waar je door heen kan kijken die iemand persoonlijk heeft gemaakt.
@@ -27,15 +25,20 @@ Een wbesite is webby als het goed kan worden bestuurd en het scherm word aangepa
 
 Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 Ik wil een website maken dat voelt als een interactieve ervaring die de gebruiker vermaakt.
+</details>
 
+<details><summary>Deep dive dark en light</summary>
 Deep dive Light en dark:
 <img width="2436" height="1598" alt="image" src="https://github.com/user-attachments/assets/7231ce10-d1a9-4e36-9df0-a776bab1dbac" />
 <img width="2422" height="1608" alt="image" src="https://github.com/user-attachments/assets/359d36c7-4929-432a-b280-05ef3cac3f58" />
+</details>
 
 </details>
 
 9 September:
 <details><summary>Lees meer</summary>
+
+<details><summary>Eerste schetsen en moodboards</summary>
 <img width="854" height="1198" alt="image" src="https://github.com/user-attachments/assets/945e2a14-ab97-4b4f-adc6-5ce82b077eb7" />
 <img width="846" height="744" alt="image" src="https://github.com/user-attachments/assets/b8f8c0c5-cea9-47e9-9937-10faa515f3b6" />
 <img width="968" height="1040" alt="image" src="https://github.com/user-attachments/assets/0ad4411c-f9dc-4e66-b85d-9daa428c04c0" />
@@ -44,7 +47,9 @@ Deep dive Light en dark:
 Mijn idee is om een website te maken over elektronische muziek en de impact die deze muziek heeft op de wereld. Ik wil laten zien hoe elektronische muziek is ontstaan, hoe verschillende genres zich hebben ontwikkeld en hoe de muziek mensen met elkaar verbindt. Het gaat daarbij niet alleen om de muziek zelf, maar ook om de cultuur eromheen, zoals clubs, festivals en de gemeenschappen die hieruit zijn ontstaan.
 
 Qua vormgeving wil ik een clubachtige sfeer creëren met felle neonkleuren, bewegende teksten en vloeiende gradients. Door blur en lichteffecten te gebruiken, wil ik het gevoel van een donkere club met kleurrijke verlichting overbrengen. De beweging op de website moet aansluiten bij de energie en het ritme van elektronische muziek.
+</details>
 
+<details><summary>Checkout</summary>
 checkout:
 Leg uit waar het Visual Research in 3 stappen naartoe werkt
 Door visual research doe je ideeen op door vormen en kleuren die de vormgeving bepalen.
@@ -54,6 +59,7 @@ Mijn garden gaat over de geschiedenis van elektronische muziek, ik ga veel gebru
 
 Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 iets met dat je naar rechts kan swipen, door de jaren heen bijvoorbeeld.
+</details>
 
 </details>
 
