@@ -173,7 +173,11 @@ Bij een consent component moet ik zorgen dat de gebruiker een vrije en duidelijk
 </details>
 23 september: 
 <details><summary>Lees meer</summary>
-  
+
+Ik was vandaag helaas ziek maar ik heb alsnog de cookie pop up schetsen gemaakt.
+Cookie pop up schetsen:
+
+
 Check out:
 Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
 HTML-validatie is het controleren of je HTML-code volgens de officiële regels is geschreven. Je ontdekt fouten die je website minder betrouwbaar of toegankelijk kunnen maken. 
