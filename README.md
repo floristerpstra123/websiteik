@@ -372,7 +372,7 @@ De animaties zijn dus niet alleen toegevoegd om de pagina te laten bewegen. Elk 
 
 </details>
 
-## 3: Website opbouw en vormgeving uitleg
+## 3: Website opbouw code en vormgeving uitleg
 <details><summary>Lees meer</summary>
 ## Homepagina
 
