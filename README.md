@@ -239,7 +239,9 @@ ALs je het toetsenbord niet kan besturen.
 
 Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken. Dit betekent dat ik er eindelijk in kom en meer process begin te maken, waarin ik in de eerste sprint totaal verblind was door alle wolken is het nu allemaal een stuk meer helder.  
 
-Feedback: Ik moest de code nog flink aanpassen want die was nog niet helemaal juist, ik kreeg ook de tip om alles ccs in 1 bestand te zetten want nu is het best wel een chaos met heel bestanden, wat ook meer tijd kost.
+Feedback: Ik moest de code nog flink aanpassen want die was nog niet helemaal juist, ik kreeg ook de tip om alles ccs in 1 bestand te zetten want nu is het best wel een chaos met heel bestanden, wat ook meer tijd kost. 
+
+In sprint 3 ga ik letten op mijn code en alle css bij elkaar zetten en meer informatie halen uit de deep dives en deze toepassen.
 
 </details>
 
@@ -337,6 +339,7 @@ Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb
 <details><summary>Lees meer</summary>
 ### Let it happen - Tame Impala
 
+Ik heb gekozen voor het liedje "Let it happen" van Tame Impala omdat ik deze al kenden en heel veel heb geluisterd. Ik denk ook dat. dit liedje kwa ritme en lyrics heel cool en apart is door de elektronische geluiden. Ik was begonnen met wat schetsen te maken, ik was helaas niet op school door een keelontsteking dus had ik eerst de opdracht verkeerd begrepen en ook andere soorten lettertype geschetst. Ik heb bijvoorbeeld bij shadow een schaduw achtige font getekent en bij noise een harde bewegende font. Ik heb sommige woorden groot en hard getekent, omdat het voelde alsof de tekst  steeds luider werd en dichtrbij kwam.
 <img width="3024" height="4032" alt="IMG_7273" src="https://github.com/user-attachments/assets/0d58609d-720e-4635-9d65-5ab24465496a" />
 <img width="3024" height="4032" alt="IMG_7272 (1)" src="https://github.com/user-attachments/assets/bb54f6b7-c24a-450d-aaed-11455fbaf659" />
 <img width="3024" height="4032" alt="IMG_7274" src="https://github.com/user-attachments/assets/b215e572-54c2-4b95-9469-1fb9df639041" />
@@ -347,7 +350,6 @@ Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb
 <img width="3024" height="4032" alt="IMG_7280" src="https://github.com/user-attachments/assets/72168bb8-1dfd-4952-a349-62556effb1d8" />
 <img width="3024" height="4032" alt="IMG_7281" src="https://github.com/user-attachments/assets/02d7e3b4-a69c-4561-8f1b-d53b8a42acf9" />
 <img width="974" height="1458" alt="image" src="https://github.com/user-attachments/assets/96cdc699-8ff5-4eb3-8fb8-1452a64c00ca" />
-
 
 Ik heb gekozen voor het stukje
 All this running around, bearing down on my shoulders
