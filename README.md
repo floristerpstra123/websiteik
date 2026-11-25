@@ -21,14 +21,14 @@ Ook het proces van het schrijven van de songtekst heb ik in een apart hoofdstuk 
 
 <details><summary>Checkout</summary>
 
-Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
 Een digital garden is een website vol met verschillende ideeen en onderwerpen waar je door heen kan kijken die iemand persoonlijk heeft gemaakt.
 
-Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren:
 Een wbesite is webby als het goed kan worden bestuurd en het scherm word aangepast op de grootte van je device.
 
-Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
-Ik wil een website maken dat voelt als een interactieve ervaring die de gebruiker vermaakt.
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma:
+Ik wil een website maken dat voelt als een interactieve ervaring die de gebruiker vermaakt, er moet beweging in komen.
 </details>
 
 <details><summary>Deep dive dark en light</summary>
@@ -55,13 +55,13 @@ Qua vormgeving wil ik een clubachtige sfeer creëren met felle neonkleuren, bewe
 
 <details><summary>Check out</summary>
 
-Leg uit waar het Visual Research in 3 stappen naartoe werkt
+Leg uit waar het Visual Research in 3 stappen naartoe werkt:
 Door visual research doe je ideeen op door vormen en kleuren die de vormgeving bepalen.
 
-Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz):
 Mijn garden gaat over de geschiedenis van elektronische muziek, ik ga veel gebruik maken van velle kleuren en een donkere achtergrond waardoor er een gevoel van feest en euforie komt. 
 
-Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken:
 iets met dat je naar rechts kan swipen, door de jaren heen bijvoorbeeld.
 </details>
 
@@ -118,7 +118,7 @@ Grid 101 + Media queries:
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 Een website word lelijk als de layout niet klopt vergeleken met je scherm, dit fix je met flexbox, grid.
 
-Vertel welke volgende stap je neemt om je website responsive te maken.
+Vertel welke volgende stap je neemt om je website responsive te maken:
 Flexbox en grid toepassen.
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
@@ -130,7 +130,7 @@ nee
 <details><summary>Lees meer</summary>
 
 <details><summary>Check out</summary>
-Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen:
 nabijhheid: elementen die dicht bij elkaar staan worden gezien als 1 groep. gelijkheid: Elementen die visueel op elkaar lijken. sluiting: Elementen die in dezelfde richting bewegen.
 
 Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
@@ -143,6 +143,15 @@ gelijkheid.
 <details><summary>Retrospect</summary>
 Retrospect: 
 Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een pad die langzaam omhoog gaat. Dit moet laten zien dat ik nu nog onderaan het pad sta maar mijn reis naar boven begin, ik heb het naast school erg druk met werk dus daardoor liep ik een beetje achter en de code maakt me op dit moment een beetje bang omdat ik er nog niks van begrijp. Maar ik ben begonnen met brainstormen, code leren en het huiswerk maken en nu begin ik er meer in te raken.
+</details>
+
+<details><summary>Feedback</summary>
+Mijn feedback was best positief, mijn idee voor de website vonden de docenten erg leuk en intressant, ik moest alleen wel mijn learning log meer bijhouden en mijn site op niveau brengen.
+</details>
+<details><summary>Deep dive Responsive grid. + grid areas</summary>
+
+<img width="2440" height="1330" alt="image" src="https://github.com/user-attachments/assets/54ea2bc3-ada8-4113-a8dd-6ab4caef8006" />
+<img width="2432" height="1398" alt="image" src="https://github.com/user-attachments/assets/7d8f9ffa-24f4-42e4-b508-d554b929f186" />
 </details>
 </details>
 
@@ -215,10 +224,10 @@ Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgev
 HTML-validatie is het controleren of je HTML-code volgens de officiële regels is geschreven. Je ontdekt fouten die je website minder betrouwbaar of toegankelijk kunnen maken. 
 
 Welke dingen vielen je op?
-Ik had veel losse hafe stukjes code die weg konden.
+Ik had veel losse hafe stukjes code die weg konden. Mijn code was nog best chaotisch.
 
 Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
-Ik was ziek.
+Ik was helaas ziek.
 </details>
 </details>
 
@@ -245,7 +254,7 @@ Noem drie manieren om door een website te navigeren met jouw screenreader.
 via tap, geluid en de pijltjes.
 </details>
 
-<details><summary>Bi weekly geek 2t</summary>
+<details><summary>Bi weekly geek 2</summary>
 <img width="1618" height="1130" alt="image" src="https://github.com/user-attachments/assets/8209f0af-b9e4-4e34-aa44-ecd5cae61679" />
 
 </details>
@@ -385,6 +394,8 @@ Na feedback heb ik nog een font toegevoegd om het leesbaarder te maken, screenre
 <img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
 </details>
 </details>
+
+
 
 19 oktober 
 <details><summary>Lees meer</summary>
