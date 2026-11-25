@@ -73,7 +73,7 @@ iets met dat je naar rechts kan swipen, door de jaren heen bijvoorbeeld.
 <details><summary>Check out</summary>
   
 Welke feedback heb je gehad?
-Om voor de geschiedenis pagina voor elk jaartal een ander bijpassend thema te maken.
+Om voor de geschiedenis pagina voor elk jaartal een ander bijpassend thema te maken. Dus dat elke pagina echt een eigen vormgeving krijgt en je na elke scroll een ander gevoel ktijgt.
 </details>
 
 <details><summary>Eerste ideeen</summary>
@@ -347,8 +347,6 @@ Met duidelijke hiërarchie laat ik zien wat belangrijk is. Genoeg witruimte zorg
 
 Hoeveel gekkigheid moet er in je werk zitten?
 Voor mij genoeg om het ontwerp een eigen karakter te geven, maar niet zoveel dat het onduidelijk wordt. Bij mijn website passen neonkleuren en beweging bij de clubsfeer, maar de tekst en navigatie moeten wel goed leesbaar blijven.
-
-<img width="2092" height="1516" alt="image" src="https://github.com/user-attachments/assets/a632180b-87cc-485e-a1e3-8bf259134e73" />
 </details>
 </details>
 9 oktober
@@ -387,6 +385,32 @@ Na feedback heb ik nog een font toegevoegd om het leesbaarder te maken, screenre
 <img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
 </details>
 
+Maandag 19 oktober 
+<details><summary>Lees meer</summary>
+<details><summary>Hoe webby is mijn website?</summary>
+<img width="2092" height="1516" alt="image" src="https://github.com/user-attachments/assets/a632180b-87cc-485e-a1e3-8bf259134e73" />
+</details>
+</details>
+
+Woensdag 21 oktober
+<details><summary>Lees meer</summary>
+<details><summary>Peerfeedback</summary>
+<img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/568bee53-c6e1-4cf5-b12c-c3106426c826" />
+<img width="1012" height="748" alt="image" src="https://github.com/user-attachments/assets/479966b8-6783-4088-8c85-043b97218902" />
+Na feedback heb ik nog een font toegevoegd om het leesbaarder te maken, screenreader gefixt, home pagina responsive gemaakt en de dark/light mode gefixt.
+</details>
+</details>
+
+Maandag 26 oktober
+<details><summary>Lees meer</summary>
+ <details><summary>Hoe webby is mijn eindproduct?</summary> 
+<img width="2056" height="1496" alt="image" src="https://github.com/user-attachments/assets/176d67f1-b965-4bfa-b31f-4d0f1ce69cfc" />
+</details>
+
+ <details><summary>Hoe log is mijn learning log</summary>   
+<img width="2130" height="1488" alt="image" src="https://github.com/user-attachments/assets/9c1e7e40-355f-44b0-8bdd-64be9eddc28c" />
+</details>
+  
 <details><summary>Expositie</summary>
 <img width="1870" height="1062" alt="image" src="https://github.com/user-attachments/assets/789ef54c-9863-4a33-bbf6-641d66ed26f9" />
 Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb gekregen, hiermee zie ik wel dat mensen doorhebben wat ik probeer uit te beelden. 
