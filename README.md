@@ -131,13 +131,10 @@ Ik ben mijn rettrospect kwijt, maar als tekening had ik een berg gemaakt met een
 
 Ik heb besloten om toch het audio equalizer idee niet door te zetten, omdat ik toch liever met mijn eerste idee verder wil, namelijk een club/elektronische geinspireerde website, omdat ik niet alleen wil focussen op de muziek zelf maar ook op de geschiedenis ervan en de sfeer goed laten overbrengen. Ik wil een soort donkere club/concert sfeer creeren door neon kleuren en fonts die echt een electronic music sfeer geeft. 
 
-Ik ben begonnen met mijn home pagina, bovenaan heb ik met grid de knoppen geplaatst. In plaats van dark/light mode wil ik het day/night mode noemen om meer de club sfeer erin te brengen. 
+Ik ben begonnen met mijn home pagina, bovenaan heb ik met grid de knoppen geplaatst. In plaats van dark/light mode wil ik het day/night mode noemen om meer de club sfeer erin te brengen. Ik heb met een hover ervoor gezorgt dat de knop neon roze kleurt als de gebruiker zich op die pagina bevind, en als je over de knoppen gaat kleuren ze ook roze en gaan ze een klein beetje omhoog, hierdoor voelt de gebruiker echt interactie met de website.
 
-
-
-
-
-
+<img width="2836" height="196" alt="image" src="https://github.com/user-attachments/assets/5346580b-0702-4a2b-b0ae-b03d9d55bdbc" />
+<img width="998" height="146" alt="image" src="https://github.com/user-attachments/assets/7c93742c-60b4-4589-bd3d-51c7ee419eb9" />
 
 
 check out:
@@ -185,7 +182,7 @@ Welke dingen vielen je op?
 Ik had veel losse hafe stukjes code die weg konden.
 
 Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
-Was ziek.
+Ik was ziek.
 
 </details>
 
@@ -193,7 +190,7 @@ Was ziek.
 <details><summary>Lees meer</summary>
   
 <img width="2552" height="1684" alt="image" src="https://github.com/user-attachments/assets/806e38a8-6462-4a7b-a785-e121b6e0a421" />
-Ik heb een clubachtige lettertype ingeladen en in mijn website gezet. Op de achtergrond staan verschillende engelse zinnen over elektronische muziek, die over het scherm bewegen heen en weer, ik wil hierdoor een energieke en chaotische sfeer te creeeren.
+Ik heb een clubachtige lettertype ingeladen en in mijn website gezet. Op de achtergrond heb ik met animaties verschillende engelse zinnen over elektronische muziek gezet, die over het scherm bewegen heen en weer, ik wil hierdoor een energieke en chaotische sfeer te creeeren.
 
 <img width="1209" height="803" alt="Screenshot 2026-10-17 at 17 16 36" src="https://github.com/user-attachments/assets/858b185e-1f55-41ab-88bd-9604d42584c7" />
 Ik heb op de achtergrond gradients gezet met behulp van de deepdive die een soortvan de bewegende clublichten moeten uitstralen. De gradients en de lettertype die heen en weer bewegen zorgen echt voor een club/concert gevoel.
@@ -239,10 +236,6 @@ Bij deze sprint heb ik een zon getekend die langzaam verschijnt achter de wolken
 
 </details>
 
-Bi weekly 3
-<img width="1710" height="1018" alt="image" src="https://github.com/user-attachments/assets/84810f85-8da0-45b1-a13d-1e0557699ce0" />
-
-
 # sprint 3
 
 5 oktober
@@ -250,8 +243,8 @@ Bi weekly 3
 <img width="1056" height="654" alt="image" src="https://github.com/user-attachments/assets/af8a3098-2ff9-4130-adcc-35386b20f4b7" />
 <img width="438" height="226" alt="image" src="https://github.com/user-attachments/assets/ceb854c6-b490-43cd-a291-f996c9604ae4" />
 
-Ik heb een cookie pop up toegevoegd aan de home pagina, ik gebruik geen externe links dus je kunt de cookies alleen accepteren.
-Ik heb de light/dark mode knop aangepast naar day/night mode om meer die club sfeer erin te brengen.
+Ik heb een cookie pop up toegevoegd aan de home pagina, ik gebruik alleen geen externe links dus je kunt de cookies alleen accepteren. Zodra je het hebt geaccepteerd verdwijnt de cookie pop up van scherm. 
+
 
 checkout:
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
@@ -286,7 +279,7 @@ Ik zou grootte gebruiken. Met een grote titel, kleinere tussenkoppen en nog klei
 <details><summary>Lees meer</summary>
 <img width="3020" height="1694" alt="image" src="https://github.com/user-attachments/assets/f96010dd-0f38-4993-b40f-572da8156b5b" />
 <img width="3018" height="1718" alt="image" src="https://github.com/user-attachments/assets/0975b039-e061-410d-88dc-8c94a44ec319" />
-Ik heb de frequency/genre pagina gemaakt met een scroll functie naar beneden. Ik had al eerder gezegd dat ik dit in miojn website wilde met knoppen die je naar beneden en boven brengen. Ik heb bij elk genre een andere achtergrond vormgegeven met kleur om echt dat specifieke genre gevoel te versterken.
+Ik heb de frequency/genre pagina gemaakt met een scroll functie naar beneden. Ik had al eerder gezegd dat ik dit in mijn website wilde met knoppen die je naar beneden en boven brengen. Ik heb bij elk genre een andere achtergrond vormgegeven met kleur om echt dat specifieke genre gevoel te versterken. 
 
 Checkout:
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
@@ -327,6 +320,9 @@ Na feedback heb ik nog een font toegevoegd, screenreader gefixt, home pagina res
 
 Bi weekly 3
 <img width="1610" height="1036" alt="image" src="https://github.com/user-attachments/assets/87a8b41f-5c4c-47de-927c-cceb62eb6d0c" />
+
+<img width="1870" height="1062" alt="image" src="https://github.com/user-attachments/assets/789ef54c-9863-4a33-bbf6-641d66ed26f9" />
+Mijn stickers van de expositie, ik ben super tevreden met de stickers die ik heb gekregen, hiermee zie ik wel dat mensen doorhebben wat ik probeer uit te beelden.
 
 </details>
 
